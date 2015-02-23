@@ -7,6 +7,10 @@
   <sounds name="sound">
     <sound>sound\Flurp_Main_Theme</sound>
     <sound>sound\Flurp_Level1_Groove</sound>
+    <sound>sound\Scheet</sound>
+    <sound>sound\Gong</sound>
+    <sound>sound\boer</sound>
+    <sound>sound\pain</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\sprite0</sprite>
@@ -40,6 +44,7 @@
     <object>objects\sushi</object>
     <object>objects\Health</object>
     <object>objects\obj_circle_saw</object>
+    <object>objects\obj_Gong</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Title</room>
