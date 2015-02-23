@@ -11,9 +11,14 @@
   <sprites name="sprites">
     <sprite>sprites\sprite0</sprite>
     <sprite>sprites\sprite1</sprite>
+    <sprite>sprites\sprite3</sprite>
+    <sprite>sprites\circle_saw</sprite>
+    <sprite>sprites\sprite4</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
+    <background>background\Title_Screen</background>
+    <background>background\zen_garden_1</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
@@ -21,13 +26,24 @@
     <script>scripts\opstaan.gml</script>
     <script>scripts\zwaartekracht.gml</script>
   </scripts>
+  <fonts name="fonts">
+    <font>fonts\Japanese_Style_12</font>
+    <font>fonts\Japanese_Style_24</font>
+    <font>fonts\Japanese_Style_36</font>
+    <font>fonts\Japanese_Style_48</font>
+  </fonts>
   <objects name="objects">
     <object>objects\Flurp</object>
     <object>objects\object1</object>
     <object>objects\background_groove_1</object>
+    <object>objects\Main_Theme</object>
+    <object>objects\sushi</object>
+    <object>objects\Health</object>
+    <object>objects\obj_circle_saw</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <room>rooms\Title</room>
+    <room>rooms\level1</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
