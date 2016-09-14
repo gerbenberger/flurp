@@ -32,7 +32,6 @@
     <script>scripts\zwaartekracht.gml</script>
   </scripts>
   <fonts name="fonts">
-    <font>fonts\Japanese_Style_12</font>
     <font>fonts\Japanese_Style_24</font>
     <font>fonts\Japanese_Style_36</font>
     <font>fonts\Japanese_Style_48</font>
