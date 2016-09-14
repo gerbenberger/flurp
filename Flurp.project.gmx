@@ -19,6 +19,7 @@
     <sprite>sprites\circle_saw</sprite>
     <sprite>sprites\sprite4</sprite>
     <sprite>sprites\ninja_star_snail</sprite>
+    <sprite>sprites\sprite6</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>

@@ -1,5 +1,5 @@
 {
-image_yscale = 0.15;
-image_xscale = 0.30;
+image_yscale = 0.08;
+image_xscale = 0.14;
 }
 
